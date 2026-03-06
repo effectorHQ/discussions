@@ -1,0 +1,17 @@
+# Template for the "General" discussion category.
+# File name must match the category slug (Settings → Discussions → Categories).
+title: "[General] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share what's on your mind — intros, questions, or ideas about OpenClawHQ and the OpenClaw ecosystem.
+  - type: textarea
+    id: body
+    attributes:
+      label: What would you like to discuss?
+      description: Describe your topic or question.
+      placeholder: |
+        A few sentences to get the conversation started...
+    validations:
+      required: true
