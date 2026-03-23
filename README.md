@@ -16,4 +16,4 @@ Templates live in [`.github/DISCUSSION_TEMPLATE/`](.github/DISCUSSION_TEMPLATE/)
 
 ## License
 
-This project is currently licensed under the Apache 2.0 License 。
+This project is currently licensed under the [Apache License, Version 2.0](LICENSE.md) 。
