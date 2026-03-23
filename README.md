@@ -13,3 +13,7 @@ This repository hosts **Discussions** for the [effectorHQ](https://github.com/ef
 ## Optional: discussion templates
 
 Templates live in [`.github/DISCUSSION_TEMPLATE/`](.github/DISCUSSION_TEMPLATE/). Each file name must match a **category slug** (e.g. `general.yml` for the “General” category). If you add or rename categories in repo Settings → Discussions, add or rename the corresponding `.yml` file.
+
+## License
+
+This project is currently licensed under the Apache 2.0 License 。
